@@ -1,0 +1,22 @@
+div{
+    background-color: bisque;
+    
+}
+.text{
+    color: red;
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+}
+#div .heading{
+    background-color: bisque;
+    color: black;
+}
+img{
+    width: 220px;
+    height: auto;
+}
+#recipe{
+    background-color: bisque;
+}
